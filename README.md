@@ -16,11 +16,6 @@
 
 A self-contained 2.5D/3D Supercar & Off-Road Physics Racing Game built by **[@gaurav-707](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707)**. Engineered in a single zero-build HTML5 application combining **Three.js Physically Based Rendering (PBR)**, a **4x sub-stepped spring-damper suspension & rigid-body physics engine**, an **interactive Island Satellite Campaign Map**, and a **hybrid Web Audio API race-car sample & multi-harmonic V10/V12 synthesizer**.
 
-## 🌐 Live Demo
-
-- **Play Live in Browser**: [https://dreamy-fudge-22904f.netlify.app/](https://www.google.com/search?q=https%3A%2F%2Fdreamy-fudge-22904f.netlify.app%2F)
-- **Source Repository**: [https://github.com/gaurav-707/Apex-Climb](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707%2FApex-Climb)
-
 ## ✨ Key Engineering Features
 
 - **Sculpted Bezier `ExtrudeGeometry` 3D Vehicles**: Replaces primitive box meshes with contoured side-profile Bezier curves, wheel-arch cutouts, beveled body panels, sloped windshields, widebody fender flares, aerodynamic side mirrors, front splitters, rear diffusers with quad chrome exhaust tips, and 10-spoke concave alloy rims with slotted brake rotors and painted calipers.
