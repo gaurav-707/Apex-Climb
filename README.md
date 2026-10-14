@@ -1,7 +1,8 @@
 # Apex-Climb
-# 🏎️ Los Santos Exotics & Off-Road VI
+# 🏎️ Apex Climb: Los Santos Exotics & Off-Road VI
 
-[Play Live on GitHub Pages](https://www.google.com/search?q=https%3A%2F%2Fgaurav-707.github.io%2Flos-santos-exotics-vi%2F)
+[Play Live on Netlify](https://www.google.com/search?q=https%3A%2F%2Fdreamy-fudge-22904f.netlify.app%2F)
+[GitHub Repo](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707%2FApex-Climb)
 [Three.js r128](https://www.google.com/search?q=https%3A%2F%2Fthreejs.org%2F)
 [Matter.js 0.19](https://www.google.com/search?q=https%3A%2F%2Fbrm.io%2Fmatter-js%2F)
 [Web Audio API](https://www.google.com/search?q=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FAPI%2FWeb_Audio_API)
@@ -10,8 +11,8 @@ A self-contained 2.5D/3D Supercar & Off-Road Physics Racing Game built by **[@ga
 
 ## 🌐 Live Demo
 
-- **Play in Browser**: [https://gaurav-707.github.io/los-santos-exotics-vi/](https://www.google.com/search?q=https%3A%2F%2Fgaurav-707.github.io%2Flos-santos-exotics-vi%2F)
-- **Source Repository**: [https://github.com/gaurav-707/los-santos-exotics-vi](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707%2Flos-santos-exotics-vi)
+- **Play Live in Browser**: [https://dreamy-fudge-22904f.netlify.app/](https://www.google.com/search?q=https%3A%2F%2Fdreamy-fudge-22904f.netlify.app%2F)
+- **Source Repository**: [https://github.com/gaurav-707/Apex-Climb](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707%2FApex-Climb)
 
 ## ✨ Key Engineering Features
 
@@ -64,8 +65,8 @@ Because the entire game is self-contained inside `index.html`, no build step or 
 
 ```bash
 # Clone the repository
-git clone https://github.com/gaurav-707/los-santos-exotics-vi.git
-cd los-santos-exotics-vi
+git clone https://github.com/gaurav-707/Apex-Climb.git
+cd Apex-Climb
 
 # Option 1: Open index.html directly in any browser
 open index.html
