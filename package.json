@@ -1,0 +1,15 @@
+{
+  "name": "los-santos-exotics-vi",
+  "version": "1.0.0",
+  "description": "Los Santos Exotics & Off-Road VI — 3D WebGL Supercar & Off-Road Physics Game",
+  "homepage": "https://gaurav-707.github.io/los-santos-exotics-vi/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaurav-707/los-santos-exotics-vi.git"
+  },
+  "author": "gaurav-707",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT"
+}
