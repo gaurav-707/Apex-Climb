@@ -1,7 +1,7 @@
 # Apex-Climb
 # 🏎️ Apex Climb: Los Santos Exotics & Off-Road VI
 
-[Play Live on Netlify](https://www.google.com/search?q=https%3A%2F%2Fdreamy-fudge-22904f.netlify.app%2F)
+[Play Live on Netlify]([https://www.google.com/search?q=https%3A%2F%2Fdreamy-fudge-22904f.netlify.app%2F](https://dreamy-fudge-22904f.netlify.app/))
 [GitHub Repo](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707%2FApex-Climb)
 [Three.js r128](https://www.google.com/search?q=https%3A%2F%2Fthreejs.org%2F)
 [Matter.js 0.19](https://www.google.com/search?q=https%3A%2F%2Fbrm.io%2Fmatter-js%2F)
