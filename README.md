@@ -1,8 +1,6 @@
 # Apex-Climb
 # 🏎️ Apex Climb: Los Santos Exotics & Off-Road VI
 
-# 🏎️ Apex Climb: Los Santos Exotics & Off-Road VI
-
 [[https://img.shields.io/badge/Play_Live-Netlify_App-00C7B7?style=for-the-badge&logo=netlify]](https://dreamy-fudge-22904f.netlify.app/)
 [[https://img.shields.io/badge/GitHub-Apex--Climb-181717?style=for-the-badge&logo=github]](https://github.com/gaurav-707/Apex-Climb)
 [[https://img.shields.io/badge/Three.js-r128_WebGL-00e5ff?style=for-the-badge]](https://threejs.org/)
@@ -13,8 +11,6 @@
 
 - **Play Live in Browser**: https://dreamy-fudge-22904f.netlify.app/
 - **Source Repository**: https://github.com/gaurav-707/Apex-Climb
-
-A self-contained 2.5D/3D Supercar & Off-Road Physics Racing Game built by **[@gaurav-707](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707)**. Engineered in a single zero-build HTML5 application combining **Three.js Physically Based Rendering (PBR)**, a **4x sub-stepped spring-damper suspension & rigid-body physics engine**, an **interactive Island Satellite Campaign Map**, and a **hybrid Web Audio API race-car sample & multi-harmonic V10/V12 synthesizer**.
 
 ## ✨ Key Engineering Features
 
