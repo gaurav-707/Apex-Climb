@@ -1,12 +1,6 @@
 # Apex-Climb
 # 🏎️ Apex Climb: Los Santos Exotics & Off-Road VI
 
-[[https://img.shields.io/badge/Play_Live-Netlify_App-00C7B7?style=for-the-badge&logo=netlify]](https://dreamy-fudge-22904f.netlify.app/)
-[[https://img.shields.io/badge/GitHub-Apex--Climb-181717?style=for-the-badge&logo=github]](https://github.com/gaurav-707/Apex-Climb)
-[[https://img.shields.io/badge/Three.js-r128_WebGL-00e5ff?style=for-the-badge]](https://threejs.org/)
-[[https://img.shields.io/badge/Physics-Matter.js_0.19-f97316?style=for-the-badge]](https://brm.io/matter-js/)
-[[https://img.shields.io/badge/Audio-Web_Audio_API-ec4899?style=for-the-badge]](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-
 ## 🌐 Live Demo
 
 - **Play Live in Browser**: https://dreamy-fudge-22904f.netlify.app/
