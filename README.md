@@ -1,11 +1,18 @@
 # Apex-Climb
 # 🏎️ Apex Climb: Los Santos Exotics & Off-Road VI
 
-[Play Live on Netlify](https://dreamy-fudge-22904f.netlify.app/)
-[GitHub Repo](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707%2FApex-Climb)
-[Three.js r128](https://www.google.com/search?q=https%3A%2F%2Fthreejs.org%2F)
-[Matter.js 0.19](https://www.google.com/search?q=https%3A%2F%2Fbrm.io%2Fmatter-js%2F)
-[Web Audio API](https://www.google.com/search?q=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FAPI%2FWeb_Audio_API)
+# 🏎️ Apex Climb: Los Santos Exotics & Off-Road VI
+
+[[https://img.shields.io/badge/Play_Live-Netlify_App-00C7B7?style=for-the-badge&logo=netlify]](https://dreamy-fudge-22904f.netlify.app/)
+[[https://img.shields.io/badge/GitHub-Apex--Climb-181717?style=for-the-badge&logo=github]](https://github.com/gaurav-707/Apex-Climb)
+[[https://img.shields.io/badge/Three.js-r128_WebGL-00e5ff?style=for-the-badge]](https://threejs.org/)
+[[https://img.shields.io/badge/Physics-Matter.js_0.19-f97316?style=for-the-badge]](https://brm.io/matter-js/)
+[[https://img.shields.io/badge/Audio-Web_Audio_API-ec4899?style=for-the-badge]](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+
+## 🌐 Live Demo
+
+- **Play Live in Browser**: https://dreamy-fudge-22904f.netlify.app/
+- **Source Repository**: https://github.com/gaurav-707/Apex-Climb
 
 A self-contained 2.5D/3D Supercar & Off-Road Physics Racing Game built by **[@gaurav-707](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fgaurav-707)**. Engineered in a single zero-build HTML5 application combining **Three.js Physically Based Rendering (PBR)**, a **4x sub-stepped spring-damper suspension & rigid-body physics engine**, an **interactive Island Satellite Campaign Map**, and a **hybrid Web Audio API race-car sample & multi-harmonic V10/V12 synthesizer**.
 
